@@ -82,7 +82,7 @@ class Automato:
     
 
 # Definindo representação algebrica do automato
-estados = {'q0', 'q1', 'q2', 'q3', 'q4', 'q5', 'q0', 'q7', 'q8', 'q9', 'q10'}
+estados = {'q0', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7', 'q8', 'q9', 'q10'}
 alfabeto = {'c', 'o', 'm', 'p', 'u', 't', 'a', 'd','o', 'r'}
 
 # Funções de transição do automato definidas em tuplas como chaves do dicionario, onde o primeiro indice da tupla refere-se ao estado atual, o proximo indice da tupla refere-se ao simbolo que é lido, e o valor refere-se ao estado que a transição leva.
