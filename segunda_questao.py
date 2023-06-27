@@ -143,4 +143,4 @@ for indice, item in enumerate(lista_textos):
       Há {ocorrencia} ocorrências da palavra "computador" no texto informado. 
       as posições do aparecimento da palavra "computador" no texto são: {posicao} 
       ''')
-  print('\n')
+  print('\n') 
